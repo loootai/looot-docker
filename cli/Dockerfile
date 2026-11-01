@@ -7,7 +7,7 @@ FROM node:22-alpine@sha256:0a7108bf6c7bf5de370ffb1a3ed6be93d405b43ff159f681a8d18
 ARG UPSTREAM_VERSION=1.3.0
 
 LABEL org.opencontainers.image.title="looot" \
-      org.opencontainers.image.description="The looot CLI: search 2,500+ data API endpoints, see the price, run them with one token." \
+      org.opencontainers.image.description="The looot CLI: search 4,200+ data API endpoints, see the price, run them with one token." \
       org.opencontainers.image.source="https://github.com/loootai/looot-docker" \
       org.opencontainers.image.url="https://looot.ai" \
       org.opencontainers.image.documentation="https://docs.looot.ai" \

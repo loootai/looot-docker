@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/loootai/looot-docker)](LICENSE) [![Docs](https://img.shields.io/badge/docs-docs.looot.ai-12A06A)](https://docs.looot.ai)
 
-Docker images for [looot](https://looot.ai). looot gives an AI agent one key and one prepaid balance for 2,500+ data API endpoints from 90+ providers: work emails, phone numbers, company and people search, Google results, web pages, news, LinkedIn profiles, local businesses. You search the catalog, see the price before a call runs, and pay per call. A failed call costs $0.
+Docker images for [looot](https://looot.ai). looot gives an AI agent one key and one prepaid balance for 4,200+ data API endpoints from 300+ providers: work emails, phone numbers, company and people search, Google results, web pages, news, LinkedIn profiles, local businesses. You search the catalog, see the price before a call runs, and pay per call. A failed call costs $0.
 
 | Image | What it is | Dockerfile |
 | --- | --- | --- |

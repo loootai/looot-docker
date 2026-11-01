@@ -1,7 +1,7 @@
 # Docker Hub overview for `looot`
 
 Paste the text under the line into the repository overview on hub.docker.com. Short description
-(100 characters max): `The looot CLI: search 2,500+ data API endpoints, see the price, run them with one token.`
+(100 characters max): `The looot CLI: search 4,200+ data API endpoints, see the price, run them with one token.`
 
 Set the repository's "Source Repository" field to `https://github.com/loootai/looot-docker`.
 
@@ -9,7 +9,7 @@ Set the repository's "Source Repository" field to `https://github.com/loootai/lo
 
 # looot CLI
 
-[looot](https://looot.ai) gives an AI agent one key and one prepaid balance for 2,500+ data API endpoints from 90+ providers: work emails, phone numbers, company and people search, Google results, web pages, news, LinkedIn profiles, local businesses. You see the price before a call runs and pay per call. A failed call costs $0. No subscription.
+[looot](https://looot.ai) gives an AI agent one key and one prepaid balance for 4,200+ data API endpoints from 300+ providers: work emails, phone numbers, company and people search, Google results, web pages, news, LinkedIn profiles, local businesses. You see the price before a call runs and pay per call. A failed call costs $0. No subscription.
 
 This image is the `looot` npm package on `node:22-alpine`, for linux/amd64 and linux/arm64. It runs as an unprivileged user and holds no token.
 
